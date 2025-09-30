@@ -18,7 +18,7 @@ Este projeto foi desenvolvido como um estudo prático em React, inspirado na loj
       </div>
       
       
-      <img src="./src/assets/high_fidelity_t.jpg" alt="Dashboard Visual" className="mt-6 rounded-lg shadow-lg"  />
+      <img src="/high_fidelity_t.jpg" alt="Dashboard Visual" className="mt-6 rounded-lg shadow-lg"  />
     </div>
 
     
