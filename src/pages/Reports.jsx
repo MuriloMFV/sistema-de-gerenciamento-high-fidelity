@@ -8,7 +8,7 @@ export default function Reports({ sales }) {
         <p>Faturamento total: <strong>R$ {total.toFixed(2)}</strong></p>
         <p>Quantidade de vendas: {sales.length}</p>
       </div>
-      <img src="./src/assets/playlist.gif" alt="Relatórios" className="mt-6 w-full max-w-md" />
+      <img src="/playlist.gif" alt="Relatórios" className="mt-6 w-full max-w-md" />
     </div>
   );
 }
