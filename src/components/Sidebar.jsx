@@ -4,7 +4,7 @@ export default function Sidebar({ setPage }) {
   return (
     <aside className="w-64 bg-neutral-900 text-white flex flex-col">
       <h2 className="text-2xl font-bold p-6 border-b border-neutral-800">
-        <img src="./src/assets/High-fidelity-movie-logo.webp" alt="Logo" />
+        <img src="/High-fidelity-movie-logo.webp" alt="Logo" />
       </h2>
       <nav className="flex flex-col gap-2 p-4">
         <button
